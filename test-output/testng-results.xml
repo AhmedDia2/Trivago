@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="137341" started-at="2018-07-10T19:45:57Z" finished-at="2018-07-10T19:48:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="137341" started-at="2018-07-10T19:45:57Z" finished-at="2018-07-10T19:48:14Z">
+      <class name="trivago.testcases.Testcases">
+        <test-method status="PASS" signature="setup()[pri:0, instance:trivago.testcases.Testcases@4439f31e]" name="setup" is-config="true" duration-ms="44815" started-at="2018-07-10T21:45:57Z" finished-at="2018-07-10T21:46:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Searchlocation()[pri:1, instance:trivago.testcases.Testcases@4439f31e]" name="Searchlocation" duration-ms="4307" started-at="2018-07-10T21:46:42Z" finished-at="2018-07-10T21:46:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Searchlocation -->
+        <test-method status="PASS" signature="Contacttrivago()[pri:2, instance:trivago.testcases.Testcases@4439f31e]" name="Contacttrivago" duration-ms="23486" started-at="2018-07-10T21:46:46Z" finished-at="2018-07-10T21:47:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Contacttrivago -->
+        <test-method status="PASS" signature="SubscribeNewsletter()[pri:3, instance:trivago.testcases.Testcases@4439f31e]" name="SubscribeNewsletter" duration-ms="5694" started-at="2018-07-10T21:47:10Z" finished-at="2018-07-10T21:47:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubscribeNewsletter -->
+        <test-method status="PASS" signature="NavigateDestination()[pri:4, instance:trivago.testcases.Testcases@4439f31e]" name="NavigateDestination" duration-ms="17709" started-at="2018-07-10T21:47:15Z" finished-at="2018-07-10T21:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateDestination -->
+        <test-method status="PASS" signature="ChangeCountry()[pri:5, instance:trivago.testcases.Testcases@4439f31e]" name="ChangeCountry" duration-ms="21199" started-at="2018-07-10T21:47:33Z" finished-at="2018-07-10T21:47:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChangeCountry -->
+        <test-method status="PASS" signature="SelectCouples()[pri:6, instance:trivago.testcases.Testcases@4439f31e]" name="SelectCouples" duration-ms="19994" started-at="2018-07-10T21:47:54Z" finished-at="2018-07-10T21:48:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectCouples -->
+        <test-method status="PASS" signature="closewindow()[pri:0, instance:trivago.testcases.Testcases@4439f31e]" name="closewindow" is-config="true" duration-ms="90" started-at="2018-07-10T21:48:14Z" finished-at="2018-07-10T21:48:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closewindow -->
+      </class> <!-- trivago.testcases.Testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
